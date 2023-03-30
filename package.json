@@ -1,0 +1,11 @@
+{
+  "name": "mohdans",
+  "version": "1.0.0",
+  "description": "My Portfolio Wbesite (2.0)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Ans",
+  "license": "ISC"
+}
